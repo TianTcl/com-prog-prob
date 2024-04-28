@@ -1,0 +1,17 @@
+cd ./Case-gen
+ni "001) Simple Circle.py"
+ni "002) Target.py"
+ni "003) Basketball Match.py"
+ni "004) Air Hockey.py"
+ni "005) Spinning Wheel.py"
+ni "006) Kimeju Ro!.py"
+ni "007) Space Tunnels.py"
+ni "008) A Ferret & A Mole.py"
+ni "009) School of The Moon.py"
+ni "010) Dragon Labyrinth.py"
+ni "011) Yukino, The Qilin.py"
+ni "012) Bad Sector.py"
+ni "013) The Beaming Turret.py"
+ni "014) Retconning Game.py"
+ni "015) The Rare Retrieval.py"
+read
